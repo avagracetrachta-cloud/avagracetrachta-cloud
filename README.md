@@ -15,7 +15,7 @@ Thanks for stopping by!
 | Project | What it is |
 |---------|------------|
 | [COGS108 Final Project](https://github.com/COGS108/FinalProjects-Wi25/blob/main/FinalProject_Group153_WI25.ipynb) | Final project for COGS108 (Data Science in Practice) at UCSD |
-| [AI Project - Habit Tracker](https://github.com/avagracetrachta-cloud/Habit-Tracker) | AI project to automatically adds habits, check them off each day to watch your streaks grow -- increases productivity & motivation! |
+| [AI Project - Habit Tracker](https://github.com/avagracetrachta-cloud/Habit-Tracker) | AI project to automatically adds habits, check them off each day to watch your streaks grow -- increases productivity & motivation! | Try it on your browser here! (file:///Users/avatrachta/Downloads/index.html)
 
 ---
 
