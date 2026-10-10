@@ -10,16 +10,16 @@ Thanks for stopping by!
 
 ---
 
-## 🚀 Projects
+## Projects!
 
 | Project | What it is |
 |---------|------------|
-| [COGS108 Final Project](https://github.com/YOUR-USERNAME/cogs108-final-project) | Final project for COGS108 at UCSD |
+| [COGS108 Final Project](https://github.com/COGS108/FinalProjects-Wi25/blob/main/FinalProject_Group153_WI25.ipynb) | Final project for COGS108 (Data Science in Practice) at UCSD |
 | [AI Email Sorting](https://github.com/YOUR-USERNAME/email-sorting) | AI project to automatically sort emails |
 
 ---
 
-## 📫 Extra Info
+## 📫 Extra Info!
 
 - LinkedIn: [Ava Trachta](https://www.linkedin.com/in/ava-trachta-7a846019b/)
 - Email: [avagracetrachta@gmail.com](mailto:avagracetrachta@gmail.com)
