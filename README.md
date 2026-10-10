@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="photo.jpg" alt="Ava" width="160" style="border-radius:50%" />
-
 # Hi, I'm Ava! 👋
 
 **UCSD Graduate · Cognitive Science, Neuroscience · Minor in Biology**
 
-Thanks for stopping by! This is a little space to show what I've been building.
+Thanks for stopping by!
 
 </div>
 
